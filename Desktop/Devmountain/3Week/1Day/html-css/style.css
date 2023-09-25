@@ -1,0 +1,33 @@
+h1{ 
+    text-align: center;
+    color: chocolate;font-size: 50px;
+
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border: dotted burlywood;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 30px;
+    color: brown;
+
+}
+
+button:hover{
+        background-color:aquamarine;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20190220/ourmid/pngtree-wave-point-gradient-background-warm-image_7319.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
