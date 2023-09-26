@@ -1,0 +1,47 @@
+
+
+header {
+    background-color:#454545;
+    height: 200px;
+    width: 1000px;
+}
+section{
+    background-color: grey;
+    height: 800px;
+    width:1000px;
+    display: flex;
+    
+}
+#left-div {
+    background-color: grey;
+    height: 800px;
+    width: 100px;
+    display: inline-block;
+}
+#mid-div {
+    background-color: antiquewhite;
+    height: 800px;
+    width: 800px;
+    display: inline-block;
+}
+
+#right-div {
+    background-color:grey;
+    height: 800px;
+    width: 100px;
+    display: inline-block;
+}
+
+#bottom-div {
+    background-color: black;
+    height: 100px;
+    width: 800px;
+    display: inline-block;
+    position: absolute;
+    bottom: -193px;
+    left: 108px;
+}
+
+
+
+
