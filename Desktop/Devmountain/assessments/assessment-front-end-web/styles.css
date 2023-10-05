@@ -1,0 +1,60 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.mylist {
+	margin-right: 3em;
+	display: inline-block;
+	color: orangered;
+}
+
+.fav-btn{
+	display:inline-block;
+	height: 50px;
+	width: 200;
+	background-color: #FFC300;
+	color: white;
+	font-size:15px;
+	font-weight:bold;
+	/* font-style: italic; */
+	border: white;
+	border-radius: 100px;
+	box-shadow: 5px 5px  5px black;
+}
+
+
